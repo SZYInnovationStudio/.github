@@ -1,38 +1,121 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=We%20are%20SZYSTUDIO&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+<!-- ================== SZY INNOVATION STUDIO ================== -->
+<div align="center">
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+our+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
+<img src="https://www.szystudio.cn/facicon.png" width="120" />
+
+<h1>🚀 SZY Innovation Studio</h1>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SZYInnovationStudio&theme=transparent&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=SZYInnovationStudio&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SZYInnovationStudio&theme=github-compact&hide_border=true&area=true" />
-<br/>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SZYInnovationStudio&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,docker,md,php&theme=light" />
+  <b>少年 · 技术 · 创新 · 开源</b><br/>
+  用代码构建未来世界
 </p>
 
-<!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/SZYInnovationStudio"><img src="https://img.shields.io/badge/GitHub-SZYInnovationStudio-blue?logo=github" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=SZYInnovationStudio&abbreviated=true&color=yellow" />
+  <a href="https://www.szystudio.cn">
+    <img src="https://img.shields.io/badge/Website-szystudio.cn-0a84ff?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-34c759?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-ff9f0a?style=for-the-badge">
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+</div>
+
+---
+
+## 🧬 我们是谁 | Who We Are
+
+**SZY 创新工作室（SZY Innovation Studio）**  
+是一个由青少年开发者组成的 **科技创新与开源工作室**。
+
+我们致力于探索前沿技术，用现代 Web 与工程化思维打造  
+**稳定、优雅、有创造力的互联网产品**。
+
+我们相信：
+
+> 年龄不是边界  
+> 想象力与执行力才是核心竞争力
+
+---
+
+## ⚡ 技术方向 | Technology Focus
+
+- 前端：HTML / CSS / JavaScript / 现代 Web 架构  
+- 后端：PHP / Node.js / Python  
+- 基础设施：Linux / Docker / CDN / Cloudflare  
+- 数据：MySQL / SQLite  
+- 创意：UI / UX / 动效 / 高交互设计  
+
+我们追求 **工程质量 + 视觉审美 + 实际可用性** 的统一。
+
+---
+
+## 🌌 产品与服务 | Products & Services
+
+| 产品 | 简介 | 状态 |
+|------|------|------|
+| 🖼 SZY 图床 | 全球 CDN 加速的免费图像托管 | 🟢 Online |
+| ☁️ SZY 云盘 | 高速、简洁、易用的云存储服务 | 🟢 Online |
+| 🧠 信息学奥赛一本通系统 | 面向学习与训练的可视化管理平台 | 🟢 Online |
+
+🔗 官方网站：https://www.szystudio.cn
+
+---
+
+## 🧪 开源项目 | Open Source Projects
+
+- 💻 **550WOS**  
+  基于 Web 的仿 Windows 在线操作系统实验项目  
+
+- 🌍 **UptimeFlare 中文版**  
+  网站状态监控工具的汉化与功能优化版本  
+
+- 📚 **信息学奥赛一本通系统**  
+  面向学习与训练的可视化管理平台  
+
+- 🧱 **MCServerStatusWebPanel**  
+  多版本MC服务器状态监控网站
+
+欢迎 Star ⭐、Fork 🍴 与 Pull Request 🔧
+
+---
+
+## 👨‍💻 团队成员 | Team
+
+| 成员 | 职责 |
+|------|------|
+| ShiZhongyan | Founder / Full Stack |
+| 1424cc | Co-Founder |
+| ZHANGZHAORUI | MCN / 内容方向 |
+| Fry酥条 | 管理 / 支持 |
+
+如果你热爱技术、设计或创造，  
+**SZY创新工作室 欢迎你。**
+
+---
+
+## 🌱 参与贡献 | Contribute
+
+你可以通过以下方式参与我们：
+
+- ⭐ Star：支持项目  
+- 🍴 Fork：自由实验  
+- 🔧 Pull Request：贡献代码  
+- 🐞 Issue：提出想法与问题  
+
+我们鼓励 **大胆尝试、持续迭代、自由创造**。
+
+---
+
+## 📡 联系我们 | Contact
+
+🌐 官网：https://www.szystudio.cn  
+📧 邮箱：support@szystudio.cn  
+
+---
+
+<div align="center">
+
+### ✨ SZY创新工作室
+由小学生和初中生创建的科技工作室
+
+</div>
