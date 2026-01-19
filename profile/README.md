@@ -1,7 +1,7 @@
 <!-- ================== SZY INNOVATION STUDIO ================== -->
 <div align="center">
 
-<img src="https://www.szystudio.cn/facicon.png" width="120" />
+<img src="https://www.szystudio.cn/favicon.png" width="120" />
 
 <h1>🚀 SZY Innovation Studio</h1>
 
