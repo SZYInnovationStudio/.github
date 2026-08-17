@@ -3,119 +3,86 @@
 
 <img src="https://www.szystudio.cn/favicon.png" width="120" />
 
-<h1>🚀 SZY Innovation Studio</h1>
+# SZY Innovation Studio
 
-<p align="center">
-  <b>少年 · 技术 · 创新 · 开源</b><br/>
-  用代码构建未来世界
-</p>
+**SZY创新工作室**
 
-<p align="center">
-  <a href="https://www.szystudio.cn">
-    <img src="https://img.shields.io/badge/Website-szystudio.cn-0a84ff?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-34c759?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-ff9f0a?style=for-the-badge">
-</p>
+一个由初中生与小学生共同创立的非营利性科技工作室
+
+少年 · 技术 · 创新 · 开源 | Youth · Tech · Innovation · Open Source
+
+[官方网站](https://www.szystudio.cn) &nbsp;·&nbsp; [GitHub](https://github.com/SZYInnovationStudio) &nbsp;·&nbsp; [联系邮箱](mailto:support@szystudio.cn)
 
 </div>
 
 ---
 
-## 🧬 我们是谁 | Who We Are
+## 我们是谁 | Who we are
 
-**SZY 创新工作室（SZY Innovation Studio）**  
-是一个由青少年开发者组成的 **科技创新与开源工作室**。
-
-我们致力于探索前沿技术，用现代 Web 与工程化思维打造  
-**稳定、优雅、有创造力的互联网产品**。
-
-我们相信：
-
-> 年龄不是边界  
-> 想象力与执行力才是核心竞争力
+我们是 SZY 创新工作室。本工作室成立于 2024 年，由几名初中生与小学生共同创立，是一家非营利性科技工作室。我们专注于代码编写，致力于通过编程技术开发有趣且实用的项目，服务网络社区。同时，工作室积极投身公益事业，持续开展多项公益项目，以技术赋能社会。期待与各界志同道合者交流合作。
 
 ---
 
-## ⚡ 技术方向 | Technology Focus
+## 技术方向 | Technology Focus
 
-- 前端：HTML / CSS / JavaScript / 现代 Web 架构  
-- 后端：PHP / Node.js / Python  
-- 基础设施：Linux / Docker / CDN / Cloudflare  
-- 数据：MySQL / SQLite  
-- 创意：UI / UX / 动效 / 高交互设计  
+我们拥抱现代 Web 技术栈，围绕以下方向持续探索与实践：
 
-我们追求 **工程质量 + 视觉审美 + 实际可用性** 的统一。
+- **前端开发**：HTML · Vue 3 · Vite · Tailwind CSS
+- **后端开发**：PHP · Node.js · 服务端应用与 API 设计
+- **服务器与运维**：Linux · 服务器管理 · 系统安全 · DevOps
+- **云服务与基础设施**：图床 · 云盘 · CDN 加速 · 云主机
 
----
-
-## 🌌 产品与服务 | Products & Services
-
-| 产品 | 简介 | 状态 |
-|------|------|------|
-| 🖼 SZY 图床 | 全球 CDN 加速的免费图像托管 | 🟢 Online |
-| ☁️ SZY 云盘 | 高速、简洁、易用的云存储服务 | 🟢 Online |
-| 🧠 信息学奥赛一本通系统 | 面向学习与训练的可视化管理平台 | 🟢 Online |
-
-🔗 官方网站：https://www.szystudio.cn
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ---
 
-## 🧪 开源项目 | Open Source Projects
+## 产品与服务 | Products & Services
 
-- 💻 **550WOS**  
-  基于 Web 的仿 Windows 在线操作系统实验项目  
-
-- 🌍 **UptimeFlare 中文版**  
-  网站状态监控工具的汉化与功能优化版本  
-
-- 📚 **信息学奥赛一本通系统**  
-  面向学习与训练的可视化管理平台  
-
-- 🧱 **MCServerStatusWebPanel**  
-  多版本MC服务器状态监控网站
-
-欢迎 Star ⭐、Fork 🍴 与 Pull Request 🔧
+| 服务 | 简介 | 链接 |
+| --- | --- | --- |
+| SZY图床 | 一家免费的图床，全球高速CDN加速，全球延迟平均21ms(需申请注册过白域名) | [访问](https://img.szyd.fun) |
+| SZY云盘 | 免费云盘，不限速，储存空间大，安全可靠(需申请注册) | [访问](https://pan.szystudio.cn) |
+| SZY云 | 低价云服务，方便快捷，性价比高 | [访问](https://idc.szyd.fun) |
 
 ---
 
-## 👨‍💻 团队成员 | Team
+## 开源项目 | Open Source Projects
 
-| 成员 | 职责 |
-|------|------|
-| ShiZhongyan | Founder / Full Stack |
-| 1424cc | Co-Founder |
-| ZHANGZHAORUI | MCN / 内容方向 |
-| Fry酥条 | 管理 / 支持 |
-
-如果你热爱技术、设计或创造，  
-**SZY创新工作室 欢迎你。**
+| 项目 | 简介 | 源码 |
+| --- | --- | --- |
+| 工作室网站 | 这是我们工作室的官方网站，采用Vue3 + TypeScript + Tailwind CSS开发，完全开源。 | [查看源码](https://github.com/SZYInnovationStudio/szystudio-web) |
+| 550WOS | 根据Windows12网页版改编的在线操作系统 | [查看源码](https://github.com/SZYInnovationStudio/550WOS) |
+| SZY工具集 | 开源、强大的前端多功能工具集 | [查看源码](https://github.com/SZYInnovationStudio/SZYTools) |
+| MCServerBackupPanel | 开源免费强大的Minecraft服务器备份管理系统 | [查看源码](https://github.com/szyinnovationstudio/MCServerBackupPanel) |
 
 ---
 
-## 🌱 参与贡献 | Contribute
+## 团队成员 | Team
 
-你可以通过以下方式参与我们：
-
-- ⭐ Star：支持项目  
-- 🍴 Fork：自由实验  
-- 🔧 Pull Request：贡献代码  
-- 🐞 Issue：提出想法与问题  
-
-我们鼓励 **大胆尝试、持续迭代、自由创造**。
+| 成员 | 角色 | 简介 |
+| --- | --- | --- |
+| ShiZhongyan | 创始人 | 工作室创始人 & 全栈开发 & CEO |
+| 1424cc | 发起人 | 工作室发起人 & 后端开发 |
+| WuZheyu | 发起人 | 工作室发起人 & 技术支持 |
+| ZHANGZHAORUI | MCN负责人 & CTO | MCN负责人 & 社区管理 |
+| Fry酥条 | 工作室管理 | 工作室管理 & 系统运维 & COO |
 
 ---
 
-## 📡 联系我们 | Contact
+## 联系我们 | Contact Us
 
-🌐 官网：https://www.szystudio.cn  
-📧 邮箱：support@szystudio.cn  
+- **官方网站**：[https://www.szystudio.cn](https://www.szystudio.cn)
+- **邮箱**：[support@szystudio.cn](mailto:support@szystudio.cn)
+- **GitHub**：[https://github.com/SZYInnovationStudio](https://github.com/SZYInnovationStudio)
 
 ---
 
 <div align="center">
 
-### ✨ SZY创新工作室
-由小学生和初中生创建的科技工作室
+© 2026 SZY创新工作室 · 保留所有权利
 
 </div>
