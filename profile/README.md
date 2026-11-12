@@ -1,4 +1,21 @@
+<!-- ================== SZY INNOVATION STUDIO ================== -->
+<div align="center">
+
 <img src="assets/szy-hero.svg" width="100%" alt="SZY Innovation Studio">
+  
+# SZY Innovation Studio
+  
+**SZY创新工作室**
+
+一个由初中生与小学生共同创立的非营利性科技工作室
+
+少年 · 技术 · 创新 · 开源 | Youth · Tech · Innovation · Open Source
+
+[官方网站](https://www.szystudio.cn) &nbsp;·&nbsp; [GitHub](https://github.com/SZYInnovationStudio) &nbsp;·&nbsp; [联系邮箱](mailto:support@szystudio.cn)
+
+</div>
+
+---
 
 ## 01 / 关于我们
 
@@ -33,7 +50,7 @@
 ## 04 / 开源项目
 
 - **[工作室网站](https://github.com/SZYInnovationStudio/szystudio-web)** — 工作室官方网站，采用 Vue 3 + TypeScript + Tailwind CSS 开发，完全开源
-- **[550WOS](https://github.com/SZYInnovationStudio/550WOS)** — 根据 Windows 12 网页版改编的在线操作系统
+- **[CourseShop](https://github.com/SZYInnovationStudio/CourseShop)** — 一个美观、强大、可直接部署运行的在线课程售卖系统
 - **[SZY工具集](https://github.com/SZYInnovationStudio/SZYTools)** — 开源、强大的前端多功能工具集
 - **[MCServerBackupPanel](https://github.com/SZYInnovationStudio/MCServerBackupPanel)** — 开源免费强大的 Minecraft 服务器备份管理系统
 
